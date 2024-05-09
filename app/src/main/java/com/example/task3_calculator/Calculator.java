@@ -13,7 +13,7 @@ import com.google.android.material.button.MaterialButton;
 
 import java.util.ArrayList;
 
-public class Calculator extends AppCompatActivity {/*implements View.OnClickListener*/
+public class Calculator extends AppCompatActivity {
     TextView allInput, input;
     MaterialButton c, ac, dot;
     MaterialButton devide, multiply, minus, plus, equals;
